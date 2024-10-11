@@ -11,6 +11,8 @@ This project follows a branching strategy to organize features, bug fixes, and d
 
 - **main**: The main branch contains stable and production-ready code. Merges from other branches occur here after thorough testing.
 
+- **lesson-001**: In this lesson, students will learn how to use variables to store data and apply operators to perform calculations in programming.
+
 You can switch between these branches to explore different parts of the project.
 
 ----
@@ -39,4 +41,3 @@ winget install OpenJS.NodeJS.LTS
 ---
 ## Tutorial Link
 [**Click here**](https://studio.youtube.com/playlist/PL2204ERlkneD11OTQgr3Pr-CkKS1jzfNQ/videos) to view the full tutorial series.
-
